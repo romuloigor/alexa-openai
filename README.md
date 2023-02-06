@@ -13,7 +13,7 @@ This is a Alexa-OpenAI for text-to-speech and speech-to-text conversion. It uses
 
 ##The user also needs to install the necessary libraries and have access to the Google Cloud Speech API.
 
-```!pip3 install --upgrade google-cloud-speech pyaudio ffmpeg-python gTTS soundfile sounddevice numpy PyYAML``
+<code>pip3 install --upgrade google-cloud-speech pyaudio ffmpeg-python gTTS soundfile sounddevice numpy PyYAML</code>
 
 # alexa-openai ( Português Brasil )
 Este código é uma implementação de um sistema de reconhecimento de fala e resposta por meio de inteligência artificial. Ele usa as bibliotecas pyaudio, wave, struct, numpy, os, json, ffmpeg, io, google.cloud, e openai.
